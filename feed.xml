@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://rhysevans.co.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://rhysevans.co.uk/" rel="alternate" type="text/html" /><updated>2019-04-29T16:39:26-05:00</updated><id>https://rhysevans.co.uk/feed.xml</id><title type="html">Rhys Evans | Food for thought</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><author><name>Rhys Evans</name></author><entry><title type="html">VSCode Ext - Atlassion</title><link href="https://rhysevans.co.uk/microblog/vscode.ext-atlassion/" rel="alternate" type="text/html" title="VSCode Ext - Atlassion" /><published>2019-04-29T00:00:00-05:00</published><updated>2019-04-29T00:00:00-05:00</updated><id>https://rhysevans.co.uk/microblog/vscode.ext-atlassion</id><content type="html" xml:base="https://rhysevans.co.uk/microblog/vscode.ext-atlassion/">&lt;p&gt;For those that use Bitbucket and Jira this could be a powerful extension to add in to your VSCode arsenal. &lt;br /&gt;
+The &lt;a href=&quot;https://confluence.atlassian.com/bitbucket/atlassian-for-vscode-969520709.html&quot;&gt;feature set&lt;/a&gt; for this extension looks very extensive and potentially very useful.  &lt;br /&gt;
+Atlassian have even open sourced the &lt;a href=&quot;https://bitbucket.org/atlassianlabs/atlascode.git&quot;&gt;code&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Do let me know if you use it and how useful it is or if there are any neat tricks with it.&lt;/p&gt;
+
+&lt;p&gt;Find the &lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=Atlassian.atlascode&quot; target=&quot;_blank&quot;&gt;Atlassion Extension&lt;/a&gt; on the &lt;a href=&quot;https://marketplace.visualstudio.com/vscode&quot; target=&quot;_blank&quot;&gt;VSCode Marketplace&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;This extension combines the power of Jira Cloud and Bitbucket Cloud to streamline the developer workflow within VSCode.&lt;/p&gt;
+
+  &lt;p&gt;With Atlassian for VSCode you can create and view issues, start work on issues, create pull requests, do code reviews, start builds, get build statuses and more!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure&gt;
+&lt;img src=&quot;https://bitbucket.org/atlassianlabs/atlascode/raw/master/.readme/dev-workflow.gif&quot; alt=&quot;vscode atlassion demo&quot; /&gt;
+&lt;figcaption&gt;Extension Demo&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h2 id=&quot;getting-started&quot;&gt;Getting Started&lt;/h2&gt;
+&lt;p&gt;You will need&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://code.visualstudio.com/download&quot; target=&quot;_blank&quot;&gt;VSCode&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;installing-the-extension&quot;&gt;Installing the extension&lt;/h3&gt;
+&lt;p&gt;If you are new to VSCode or its extensions visit &lt;a href=&quot;https://code.visualstudio.com/docs/editor/extension-gallery&quot; target=&quot;_blank&quot;&gt;VSCode Extension Gallery Docs&lt;/a&gt; to learn more.&lt;/p&gt;
+
+&lt;h3 id=&quot;quicker-install&quot;&gt;Quicker install&lt;/h3&gt;
+&lt;p&gt;Use the VSCode command palette to quickly install the extension&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;ext install git-graph
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; Ensure there is no ‘&lt;strong&gt;&amp;gt;&lt;/strong&gt;’ in the command palette.&lt;/p&gt;
+
+&lt;h3 id=&quot;vscode-its-not-just-for-developers&quot;&gt;&lt;a href=&quot;https://code.visualstudio.com/download&quot; target=&quot;_blank&quot;&gt;VSCode&lt;/a&gt;, &lt;strong&gt;It’s not just for developers!&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Head over to &lt;a href=&quot;https://vscodecandothat.com&quot; target=&quot;_blank&quot;&gt;vscodecandothat.com&lt;/a&gt; to see what it can do at a glance.&lt;/p&gt;
+
+&lt;h2 id=&quot;getting-help-with-vscode&quot;&gt;Getting help with VSCode&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Capgemini Slack&lt;/strong&gt;  &lt;br /&gt;
+If you are a Capgemini employee, head over and join the &lt;a href=&quot;https://capgeminiengineering.slack.com/messages/CG4MVD7LJ&quot; target=&quot;_blank&quot;&gt;VSCode&lt;/a&gt; channel on the &lt;a href=&quot;https://capgeminiengineering.slack.com&quot; target=&quot;_blank&quot;&gt;Capgemini Engineering&lt;/a&gt; workspace
+    &lt;ul&gt;
+      &lt;li&gt;You can register if you have a ‘@capgemini.com’ email address &lt;a href=&quot;https://capgeminiengineering.slack.com/signup&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Wider Slack Community&lt;/strong&gt;  &lt;br /&gt;
+Join the &lt;a href=&quot;https://vscode-dev-community.slack.com&quot; target=&quot;_blank&quot;&gt;VSCode Dev Community&lt;/a&gt; workspace
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://aka.ms/vscode-dev-community&quot; target=&quot;_blank&quot;&gt;Register freely&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;GitHub&lt;/strong&gt;  &lt;br /&gt;
+VSCode is open source, why not go ask your question to the people that develop it &lt;a href=&quot;https://github.com/Microsoft/vscode/issues/new/choose&quot; target=&quot;_blank&quot;&gt;https://github.com/Microsoft/vscode/issues/new/choose&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Rhys Evans</name></author><category term="[&quot;microblog&quot;]" /><category term="VSCode" /><category term="VSCode Extension" /><category term="Git" /><summary type="html">For those that use Bitbucket and Jira this could be a powerful extension to add in to your VSCode arsenal. The feature set for this extension looks very extensive and potentially very useful. Atlassian have even open sourced the code.</summary></entry><entry><title type="html">VSCode Tip - Git Graph</title><link href="https://rhysevans.co.uk/microblog/vscode.ext-git.graph/" rel="alternate" type="text/html" title="VSCode Tip - Git Graph" /><published>2019-03-18T00:00:00-05:00</published><updated>2019-03-18T00:00:00-05:00</updated><id>https://rhysevans.co.uk/microblog/vscode.ext-git.graph</id><content type="html" xml:base="https://rhysevans.co.uk/microblog/vscode.ext-git.graph/">&lt;p&gt;This is a fairly recent find that I saught after as I found this to be a lacking feature of the &lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens&quot; target=&quot;_blank&quot;&gt;GitLens&lt;/a&gt; extension and find it really useful to view Git commit history visually.&lt;/p&gt;
+
+&lt;p&gt;Find the &lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph&quot; target=&quot;_blank&quot;&gt;Git Graph Extension&lt;/a&gt; on the &lt;a href=&quot;https://marketplace.visualstudio.com/vscode&quot; target=&quot;_blank&quot;&gt;VSCode Marketplace&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;View a Git Graph of your repository, and easily perform Git actions from the graph. Configurable to look the way you want!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure&gt;
+&lt;img src=&quot;https://github.com/mhutchie/vscode-git-graph/raw/master/resources/demo.gif&quot; alt=&quot;vscode git graph demo&quot; /&gt;
+&lt;figcaption&gt;Extension Demo&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h2 id=&quot;getting-started&quot;&gt;Getting Started&lt;/h2&gt;
+&lt;p&gt;You will need&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://code.visualstudio.com/download&quot; target=&quot;_blank&quot;&gt;VSCode&lt;/a&gt; (at least version 1.30.0)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;installing-the-extension&quot;&gt;Installing the extension&lt;/h3&gt;
+&lt;p&gt;If you are new to VSCode or its extensions visit &lt;a href=&quot;https://code.visualstudio.com/docs/editor/extension-gallery&quot; target=&quot;_blank&quot;&gt;VSCode Extension Gallery Docs&lt;/a&gt; to learn more.&lt;/p&gt;
+
+&lt;h3 id=&quot;quicker-install&quot;&gt;Quicker install&lt;/h3&gt;
+&lt;p&gt;Use the VSCode command palette to quickly install the extension&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;ext install git-graph
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; Ensure there is no ‘&lt;strong&gt;&amp;gt;&lt;/strong&gt;’ in the command palette.&lt;/p&gt;
+
+&lt;h3 id=&quot;vscode-its-not-just-for-developers&quot;&gt;&lt;a href=&quot;https://code.visualstudio.com/download&quot; target=&quot;_blank&quot;&gt;VSCode&lt;/a&gt;, &lt;strong&gt;It’s not just for developers!&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Head over to &lt;a href=&quot;https://vscodecandothat.com&quot; target=&quot;_blank&quot;&gt;vscodecandothat.com&lt;/a&gt; to see what it can do at a glance.&lt;/p&gt;
+
+&lt;h2 id=&quot;getting-help-with-vscode&quot;&gt;Getting help with VSCode&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Capgemini Slack&lt;/strong&gt;  &lt;br /&gt;
+If you are a Capgemini employee, head over and join the &lt;a href=&quot;https://capgeminiengineering.slack.com/messages/CG4MVD7LJ&quot; target=&quot;_blank&quot;&gt;VSCode&lt;/a&gt; channel on the &lt;a href=&quot;https://capgeminiengineering.slack.com&quot; target=&quot;_blank&quot;&gt;Capgemini Engineering&lt;/a&gt; workspace
+    &lt;ul&gt;
+      &lt;li&gt;You can register if you have a ‘@capgemini.com’ email address &lt;a href=&quot;https://capgeminiengineering.slack.com/signup&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Wider Slack Community&lt;/strong&gt;  &lt;br /&gt;
+Join the &lt;a href=&quot;https://vscode-dev-community.slack.com&quot; target=&quot;_blank&quot;&gt;VSCode Dev Community&lt;/a&gt; workspace
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://aka.ms/vscode-dev-community&quot; target=&quot;_blank&quot;&gt;Register freely&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;GitHub&lt;/strong&gt;  &lt;br /&gt;
+VSCode is open source, why not go ask your question to the people that develop it &lt;a href=&quot;https://github.com/Microsoft/vscode/issues/new/choose&quot; target=&quot;_blank&quot;&gt;https://github.com/Microsoft/vscode/issues/new/choose&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Rhys Evans</name></author><category term="[&quot;microblog&quot;]" /><category term="VSCode" /><category term="VSCode Extension" /><category term="Git" /><summary type="html">This is a fairly recent find that I saught after as I found this to be a lacking feature of the GitLens extension and find it really useful to view Git commit history visually.</summary></entry></feed>
