@@ -5,7 +5,7 @@ var store = [{
         "url": "https://rhysevans.co.uk/microblog/vscode.ext-git.graph/",
         "teaser":null},{
         "title": "VSCode Ext - Atlassion",
-        "excerpt":"For those that use Bitbucket and Jira this could be a powerful extension to add in to your VSCode arsenal. The feature set for this extension looks very extensive and potentially very useful. Atlassian have even open sourced the code. Do let me know if you use it and how...","categories": ["microblog"],
+        "excerpt":"For those that use Bitbucket and Jira, this could be a powerful extension to add in to your VSCode arsenal. The feature set for this extension looks very extensive and potentially very useful. Atlassian have even open sourced the code. Do let me know if you use it and how...","categories": ["microblog"],
         "tags": ["VSCode","VSCode Extension","Git"],
         "url": "https://rhysevans.co.uk/microblog/vscode.ext-atlassion/",
         "teaser":null},]
